@@ -1,0 +1,9 @@
+[submodule "BERT-Question-Answering"]
+	path = BERT-Question-Answering
+	url = https://github.com/jwliao1209/BERT-Question-Answering.git
+[submodule "T5-Chinese-News-Summarization"]
+	path = T5-Chinese-News-Summarization
+	url = https://github.com/jwliao1209/T5-Chinese-News-Summarization.git
+[submodule "Taiwan-LLaMa-Instruction-Tuning"]
+	path = Taiwan-LLaMa-Instruction-Tuning
+	url = https://github.com/jwliao1209/Taiwan-LLaMa-Instruction-Tuning.git
